@@ -6,9 +6,9 @@
 -->
 <h1 align="center">Hi 👋, I'm Nguyen Duc Viet</h1>
 <h3 align="center">Java developer</h3>
-- 🤖 Graduate student at FPT Polytechnic majoring in software engineering
+- 🤖 Education **Graduate student at FPT Polytechnic majoring in software engineering** 
 
-- 🐎 Born on October 21 in Ninh Binh
+- 🐎 Date of birth **October 21 in Ninh Binh**
 
 - 📫 How to reach me **vietndwork@gmail.com**
 <h3 align="left">Connect with me:</h3>
