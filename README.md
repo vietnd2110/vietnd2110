@@ -7,13 +7,13 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Viet</h1>
 <h3 align="center">Java developer</h3>
 
-- 🏡 Comefrom **Ninh Binh**
+- 🏡 Comefrom: **Ninh Binh**
  
-- 🤖 Education **Graduate student at FPT Polytechnic majoring in software engineering**
+- 🤖 Education: **Graduate student at FPT Polytechnic majoring in software engineering**
 
-- 🐎 Date of birth **October 21th 2002**
+- 🐎 Date of birth: **October 21th 2002**
 
-- 📫 How to reach me **vietndwork@gmail.com**
+- 📫 How to reach me: **vietndwork@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/vietnd21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vietnd21" height="30" width="40" /></a>
