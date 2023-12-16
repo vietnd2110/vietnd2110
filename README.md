@@ -1,4 +1,4 @@
-![github-contribution-grid-snake-dark](https://github.com/vietnd2110/vietnd2110/assets/94163517/be713a9b-4b7f-4b1a-87b8-4e736b2e69a3)### Hi there 👋
+![github-contribution-grid-snake-dark](https://github.com/vietnd2110/vietnd2110/assets/94163517/be713a9b-4b7f-4b1a-87b8-4e736b2e69a3)
 
 <!--
 **vietnd2110/vietnd2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Nguyen Duc Viet</h1>
 <h3 align="center">A passionate ex-software developer from Ha Noi</h3>
+<h4 align="center">This is my legacy</h4>
 
 - 📫 How to reach me **vietndwork@gmail.com**
 
