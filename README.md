@@ -10,7 +10,7 @@
 
 - 🏡 Comefrom: **Ninh Binh**
  
-- 🤖 Education: **Graduate student at FPT Polytechnic majoring in software engineering**
+- 🤖 Education: **Graduate student at FPT Polytechnic majoring in Software Engineering**
 
 - 🐎 Date of birth: **October 21th 2002**
 
