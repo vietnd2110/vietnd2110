@@ -1,6 +1,6 @@
 ![github-contribution-grid-snake-dark](https://github.com/vietnd2110/vietnd2110/assets/94163517/be713a9b-4b7f-4b1a-87b8-4e736b2e69a3)
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73836&random=false&width=435&lines=My+memories" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73836&background=FFFFFF00&center=true&random=false&width=435&lines=It's+not+a+bug%2C+it's+a+feature" alt="Typing SVG" /></a>
 </p>
 <!--
 **vietnd2110/vietnd2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
