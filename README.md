@@ -11,7 +11,7 @@
  
 - 🤖 Education **Graduate student at FPT Polytechnic majoring in software engineering**
 
-- 🐎 Date of birth **October 21 2002**
+- 🐎 Date of birth **October 21th 2002**
 
 - 📫 How to reach me **vietndwork@gmail.com**
 <h3 align="left">Connect with me:</h3>
