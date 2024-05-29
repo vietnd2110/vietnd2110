@@ -9,10 +9,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Viet</h1>
 
 - 🏡 Comefrom: **Ninh Binh**
- 
-- 🤖 Education: **Graduate student at FPT Polytechnic majoring in Software Engineering**
-
-- 🐎 Date of birth: **October 21th 2002**
 
 - 📫 How to reach me: **vietndwork@gmail.com**
 <h3 align="left">Connect with me:</h3>
